@@ -1,5 +1,5 @@
 # Yet another Kafka
-## This is the repository for the Big Data Project titled 'Yet another Kafka'
+## This is the repository for the Project titled 'Yet another Kafka'
 
 Team members:
 | Name | SRN |
